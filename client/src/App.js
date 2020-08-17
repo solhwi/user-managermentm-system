@@ -221,10 +221,7 @@ class App extends Component{
                 </TableRow>}
             </TableBody>
          </Table>
-            <p>{JSON.stringify(this.state.customers)}</p>
         </Paper>
-        
-        
       </div>       
     );
   } 

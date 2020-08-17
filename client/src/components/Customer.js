@@ -25,29 +25,5 @@ class Customer extends Component{
     }
 }
 
-class CustomerProfile extends Component{
-    render(){
-        return(
-            <div>
-                <p>{this.props.id}</p>
-                <img src={this.props.image} alt="profile"/>
-            </div>
-        )
-    }
-}
-
-class CustomerInfo extends Component{
-    render(){
-        return(
-            <div>
-                <p>{this.props.name}</p>
-                <p>{this.props.birth}</p>
-                <p>{this.props.sex}</p>
-                <p>{this.props.job}</p>
-            </div>
-        )
-
-    }
-}
 // this는 해당 Component를 뜻함 Component의 props가 가진 name
 export default Customer;
