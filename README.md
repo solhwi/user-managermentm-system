@@ -20,6 +20,6 @@ Information management of customers and products using heidiSQL
 
 
 
-> 개발기간 : 2020.07.15 ~ 2020.07.21
+> 개발기간 : 2020.07.15 ~ 2020.08.17
 
 Dev Period : 2020.07.15 ~ 2020.08.17
